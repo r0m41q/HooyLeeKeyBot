@@ -1,0 +1,11 @@
+D:\Other\Codes\Cs\TelegramBotHooyLeeKey\bin\Debug\netcoreapp2.1\TelegramBotHooyLeeKey.deps.json
+D:\Other\Codes\Cs\TelegramBotHooyLeeKey\bin\Debug\netcoreapp2.1\TelegramBotHooyLeeKey.runtimeconfig.json
+D:\Other\Codes\Cs\TelegramBotHooyLeeKey\bin\Debug\netcoreapp2.1\TelegramBotHooyLeeKey.runtimeconfig.dev.json
+D:\Other\Codes\Cs\TelegramBotHooyLeeKey\bin\Debug\netcoreapp2.1\TelegramBotHooyLeeKey.dll
+D:\Other\Codes\Cs\TelegramBotHooyLeeKey\obj\Debug\netcoreapp2.1\TelegramBotHooyLeeKey.csprojAssemblyReference.cache
+D:\Other\Codes\Cs\TelegramBotHooyLeeKey\obj\Debug\netcoreapp2.1\TelegramBotHooyLeeKey.csproj.CoreCompileInputs.cache
+D:\Other\Codes\Cs\TelegramBotHooyLeeKey\obj\Debug\netcoreapp2.1\TelegramBotHooyLeeKey.AssemblyInfoInputs.cache
+D:\Other\Codes\Cs\TelegramBotHooyLeeKey\obj\Debug\netcoreapp2.1\TelegramBotHooyLeeKey.AssemblyInfo.cs
+D:\Other\Codes\Cs\TelegramBotHooyLeeKey\bin\Debug\netcoreapp2.1\TelegramBotHooyLeeKey.pdb
+D:\Other\Codes\Cs\TelegramBotHooyLeeKey\obj\Debug\netcoreapp2.1\TelegramBotHooyLeeKey.dll
+D:\Other\Codes\Cs\TelegramBotHooyLeeKey\obj\Debug\netcoreapp2.1\TelegramBotHooyLeeKey.pdb
